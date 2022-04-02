@@ -16,7 +16,7 @@ p {
 
 .big-heading {
   font-family: "Montserrat-Black";
-  font-size: 3.5rem;
+  font-size: 5rem;
   line-height: 1.5;
 }
 
@@ -28,7 +28,7 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 0% 15% 10%;
+  padding: 0% 12% 7%;
 }
 
 /* Sections */
@@ -196,7 +196,7 @@ body{
 	}
 	.contact{
 		padding: 4%;
-		height: 735px;
+		height: 500px;
     text-align: left;
 	}
 	.col-md-3{
@@ -252,9 +252,10 @@ body{
 .emp-profile{
     padding: 3%;
     margin-top: 3%;
-    margin-bottom: 3%;
+    margin-bottom: 0%;
     border-radius: 0.5rem;
     background: #fff;
+    text-align: left;
 }
 .profile-img{
     text-align: center;
@@ -319,6 +320,7 @@ body{
 .profile-work{
     padding: 14%;
     margin-top: -15%;
+    text-align: left;
 }
 .profile-work p{
     font-size: 12px;
